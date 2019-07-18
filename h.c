@@ -3,7 +3,7 @@
 int
 main(int argc, char *argv[])
 {	
-	printf("h");
+	putchar('h');
 	
 	return 0;
 }
